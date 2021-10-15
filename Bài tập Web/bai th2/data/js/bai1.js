@@ -1,0 +1,1 @@
+// a=prompt('Nhập chuôi h1')
