@@ -1,0 +1,35 @@
+.bentrai
+{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.alert 
+{
+    background-color: #18A3B7;
+    color: white;
+}
+.nhaptt
+{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid 2px;
+    border-color:thistle;
+    margin-top: -20px;
+}
+.btn
+{
+    margin-right: 5px;
+    margin-top: 10px;
+}
+span
+{
+    color: red;
+}
+.benphai
+{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
